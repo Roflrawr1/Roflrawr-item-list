@@ -1,0 +1,506 @@
+﻿[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.3.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "9.0.1"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Evelyn",
+    "name": "Rebecca Realistic",
+    "steamId": "2754769044",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "Sarg Bjornson,  Helixien,  Cassie and  Luizi",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "1234_wsx",
+    "name": "Traits Expanded!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Anonymous, legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Desert",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  LimeTreeSnake and  Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and  Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Trait Rarity Colors",
+    "steamId": "1751884355",
+    "version": "1.3.0.0"
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Callouts",
+    "steamId": "2362736503",
+    "version": "1.2.1"
+  },
+  {
+    "author": "Holgast",
+    "name": "[aRc] Metal Rim Rising Callouts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shenanigans",
+    "name": "Tech Tattoos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO & Ogliss",
+    "name": "Yayo's Combat 3 [Adopted]",
+    "steamId": "2513695736",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "Arekan",
+    "name": "Enhanced Combat Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ank",
+    "name": "Genshin Impact Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_men",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shenanigans",
+    "name": "Tribal Tattoos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": "1814987817",
+    "version": "1.2.0"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "urugamosu",
+    "name": "Change Raid Sound to EU4 declartion of war",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Igor Invader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Compact Hediffs",
+    "steamId": "2031734067",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bradson",
+    "name": "HD Pawn Rendering",
+    "steamId": "2538746878",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Jecrell and lbmaian",
+    "name": "Doors Expanded",
+    "steamId": "1316188771",
+    "version": "1.4.0.2"
+  },
+  {
+    "author": "Beast",
+    "name": "Ultimate Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffwaffle",
+    "name": "Ideology Style Prey 2017 Weapon Retextures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Neron Neolithic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Linq",
+    "name": "Psychology (unofficial) v1.1-1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "D4egon",
+    "name": "Melody Mystical",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Raid Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "r3yph",
+    "name": "Anime Ideology",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.7.4"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.0.5"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SoulessOne",
+    "name": "Lemolim Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ats",
+    "name": "Among Us Role Reveal Raid Sound",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ShauaPuta",
+    "name": "Stickmen Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Caulaflower and  ShakestheSpear",
+    "name": "Amogus Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fuglypump",
+    "name": "Fallout Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Verniy709",
+    "name": "NierAutomata Weapon Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Verniy709",
+    "name": "NierAutomata Weapon CE patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Linz",
+    "name": "Blindsight - Truesight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LiebeKulikov",
+    "name": "Demonoid race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Smash Phil",
+    "name": "Vanilla Storytellers Expanded - Oskar Obnoxious",
+    "steamId": "2443118113",
+    "version": "1.3.0010"
+  },
+  {
+    "author": "Danimineiro",
+    "name": "[DN] Bundle Of Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mic,  Iron Wolf and  The Pheonix",
+    "name": "Pawnmorpher",
+    "steamId": "1786466855",
+    "version": "1.12.2"
+  },
+  {
+    "author": "Tory",
+    "name": "Pawnmorpher Demuzzled",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jptrrs",
+    "name": "SpeakUp",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "solidsnake8608",
+    "name": "SpeakUp Child",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Thirite,  Cheran,  Jarry1250,  lellel,  Kori,  Zach and  cometopapa",
+    "name": "Babies and Children [1.3]",
+    "steamId": "2559574784",
+    "version": "1.0.8162.34412"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "1.8.0.0"
+  },
+  {
+    "author": "Hen",
+    "name": "Style Revised - Animalist",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Deep Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taveron",
+    "name": "Increased Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Metals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy Addon - Heroic Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  }
+]
