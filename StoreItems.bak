@@ -1972,7 +1972,7 @@
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "raccoon",
@@ -7213,7 +7213,7 @@
       "price": 592
     },
     {
-      "abr": "\"shrike\"5.56",
+      "abr": "shrike5.56",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_AWS_LMG",
       "price": 708
@@ -7399,7 +7399,7 @@
       "price": 967
     },
     {
-      "abr": "ots-14-4\"groza\"",
+      "abr": "ots-14-4groza",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_GROZA4_AR",
       "price": 750
@@ -7597,7 +7597,7 @@
       "price": 658
     },
     {
-      "abr": "m200\"intervention\"",
+      "abr": "m200intervention",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_M200_SR",
       "price": 1058
@@ -7639,7 +7639,7 @@
       "price": 800
     },
     {
-      "abr": "m3\"greasegun\"",
+      "abr": "m3greasegun",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_M3_SMG",
       "price": 658
@@ -7795,7 +7795,7 @@
       "price": 575
     },
     {
-      "abr": "mp-412\"rex\"",
+      "abr": "mp-412rex",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_MP412_P",
       "price": 383
@@ -7807,7 +7807,7 @@
       "price": 800
     },
     {
-      "abr": "mp-443\"grach\"",
+      "abr": "mp-443grach",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_MP443_P",
       "price": 232
@@ -7861,7 +7861,7 @@
       "price": 800
     },
     {
-      "abr": "mx4\"storm\"",
+      "abr": "mx4storm",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_MX4_SMG",
       "price": 592
@@ -7915,7 +7915,7 @@
       "price": 1183
     },
     {
-      "abr": "pkp\"pecheneg\"",
+      "abr": "pkppecheneg",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_PKP_LMG",
       "price": 792
@@ -8107,13 +8107,13 @@
       "price": 675
     },
     {
-      "abr": "sr-2\"veresk\"",
+      "abr": "sr-2veresk",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_SR2_SMG",
       "price": 592
     },
     {
-      "abr": "sr-3\"vikhr\"",
+      "abr": "sr-3vikhr",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_SR3M_AR",
       "price": 750
@@ -8125,7 +8125,7 @@
       "price": 967
     },
     {
-      "abr": "srss\"bulldog\"",
+      "abr": "srssbulldog",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_SRSS_BR",
       "price": 967
@@ -8155,7 +8155,7 @@
       "price": 883
     },
     {
-      "abr": "svd\"dragunov\"",
+      "abr": "svddragunov",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_SVD_DMR",
       "price": 950
@@ -8287,13 +8287,13 @@
       "price": 592
     },
     {
-      "abr": "vss\"vintorez\"",
+      "abr": "vssvintorez",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_VSS_AR",
       "price": 750
     },
     {
-      "abr": "\"škorpion\"vz.65",
+      "abr": "škorpionvz.65",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_VZ65_SMG",
       "price": 592
@@ -13699,162 +13699,6 @@
       "price": 12
     },
     {
-      "abr": "basicwear",
-      "category": "Apparel",
-      "defname": "DR_BasicWear",
-      "price": 958
-    },
-    {
-      "abr": "basicchildwear",
-      "category": "Apparel",
-      "defname": "DR_BasicWear_Child",
-      "price": 958
-    },
-    {
-      "abr": "basicdress",
-      "category": "Apparel",
-      "defname": "DR_BasicDress",
-      "price": 992
-    },
-    {
-      "abr": "greekdress",
-      "category": "Apparel",
-      "defname": "DR_GreekDress",
-      "price": 1658
-    },
-    {
-      "abr": "greekhan-zo",
-      "category": "Apparel",
-      "defname": "DR_GreekHanZo",
-      "price": 1658
-    },
-    {
-      "abr": "greekpriest",
-      "category": "Apparel",
-      "defname": "DR_GreekPriest",
-      "price": 1667
-    },
-    {
-      "abr": "greeksexydress",
-      "category": "Apparel",
-      "defname": "DR_GreekSexyDress",
-      "price": 1667
-    },
-    {
-      "abr": "greekstring",
-      "category": "Apparel",
-      "defname": "DR_GreekString",
-      "price": 1658
-    },
-    {
-      "abr": "japanisedress",
-      "category": "Apparel",
-      "defname": "DR_JapaneseDress",
-      "price": 1667
-    },
-    {
-      "abr": "onepiece",
-      "category": "Apparel",
-      "defname": "DR_Onepiece",
-      "price": 1667
-    },
-    {
-      "abr": "eveningdress",
-      "category": "Apparel",
-      "defname": "DR_EveningDress",
-      "price": 1667
-    },
-    {
-      "abr": "flowerdeco",
-      "category": "Headgear",
-      "defname": "DR_Hat",
-      "price": 558
-    },
-    {
-      "abr": "japanesestylehairacc",
-      "category": "Headgear",
-      "defname": "DR_JapanHairAcc",
-      "price": 842
-    },
-    {
-      "abr": "necklace",
-      "category": "Headgear",
-      "defname": "DR_Necklace",
-      "price": 558
-    },
-    {
-      "abr": "necklacebell",
-      "category": "Headgear",
-      "defname": "DR_BellNecklace",
-      "price": 558
-    },
-    {
-      "abr": "sunhat",
-      "category": "Headgear",
-      "defname": "DR_SunHat",
-      "price": 558
-    },
-    {
-      "abr": "flowerribon",
-      "category": "Headgear",
-      "defname": "DR_FlowerRibon",
-      "price": 842
-    },
-    {
-      "abr": "battledress",
-      "category": "Armor",
-      "defname": "DR_BattleDress",
-      "price": 1950
-    },
-    {
-      "abr": "battlehelm(b)",
-      "category": "Headgear",
-      "defname": "DR_BattleHelm",
-      "price": 320
-    },
-    {
-      "abr": "battlehelm(a)",
-      "category": "Headgear",
-      "defname": "DR_BattleHelmMale",
-      "price": 320
-    },
-    {
-      "abr": "dragonianmilk",
-      "category": "Animal products",
-      "defname": "DragonianMilk",
-      "price": 14
-    },
-    {
-      "abr": "dragonianwool",
-      "category": "Wools",
-      "defname": "WoolDragonian",
-      "price": 18
-    },
-    {
-      "abr": "dragonianleather",
-      "category": "Leathers",
-      "defname": "Leather_Dragonian",
-      "price": 5
-    },
-    {
-      "abr": "battlehammer",
-      "category": "Melee weapons",
-      "defname": "DR_BattleHammer",
-      "price": 1467
-    },
-    {
-      "abr": "drakesclaw",
-      "category": "Melee weapons",
-      "defname": "MeleeWeapon_Drakesclaw",
-      "price": 1667
-    },
-    {
-      "abr": "rageblade",
-      "category": "Melee weapons",
-      "defname": "MeleeWeapon_DR_Rageblade",
-      "price": 1667
-    },
-    {
       "abr": "beads",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_Beads",
@@ -14386,7 +14230,7 @@
       "abr": "ocularslinger",
       "category": "Animals",
       "defname": "AG_OcularSlinger",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "ancienthospitalbed",
@@ -14602,7 +14446,7 @@
       "abr": "boom-pustuletrap",
       "category": "Security",
       "defname": "GR_TrapIED_Boom",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "animalimplant:bearleg",
@@ -15094,7 +14938,7 @@
       "abr": "boomgenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_BoomalopeGenetic",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "muffalogenome",
@@ -15292,7 +15136,7 @@
       "abr": "wolfchickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_WolfchickenEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "wolfchickenegg(fert.)",
@@ -15562,7 +15406,7 @@
       "abr": "boomffalo",
       "category": "Animals",
       "defname": "GR_Boomffalo",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "boomwolf",
@@ -15574,7 +15418,7 @@
       "abr": "boomsquirrel",
       "category": "Animals",
       "defname": "GR_Boomsquirrel",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "boomcat",
@@ -15706,7 +15550,7 @@
       "abr": "boomhorse",
       "category": "Animals",
       "defname": "GR_Boomhorse",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "chickenhorse",
@@ -15766,7 +15610,7 @@
       "abr": "aberrantfleshbeast",
       "category": "Animals",
       "defname": "GR_AberrantFleshbeast",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshmonstrosity",
@@ -15880,7 +15724,7 @@
       "abr": "boombeetle",
       "category": "Animals",
       "defname": "GR_Boombeetle",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "chickenspider",
@@ -16108,7 +15952,7 @@
       "abr": "boomsnake",
       "category": "Animals",
       "defname": "GR_Boomsnake",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "chickenlizard",
@@ -16231,102 +16075,6 @@
       "price": 1083
     },
     {
-      "abr": "bat",
-      "category": "Animals",
-      "defname": "ROMV_BatRace",
-      "price": 125
-    },
-    {
-      "abr": "bloodpack(animal)",
-      "category": "Blood packs",
-      "defname": "BloodPack_Animal",
-      "price": 17
-    },
-    {
-      "abr": "bloodpack(lowblood)",
-      "category": "Blood packs",
-      "defname": "BloodPack_LowBlood",
-      "price": 100
-    },
-    {
-      "abr": "bloodpack(average)",
-      "category": "Blood packs",
-      "defname": "BloodPack_AverageBlood",
-      "price": 100
-    },
-    {
-      "abr": "bloodpack(highblood)",
-      "category": "Blood packs",
-      "defname": "BloodPack_HighBlood",
-      "price": 100
-    },
-    {
-      "abr": "bloodvial(low)",
-      "category": "Blood packs",
-      "defname": "BloodVial_LowBlood",
-      "price": 50
-    },
-    {
-      "abr": "bloodvial(average)",
-      "category": "Blood packs",
-      "defname": "BloodVial_AverageBlood",
-      "price": 50
-    },
-    {
-      "abr": "bloodvial(highblood)",
-      "category": "Blood packs",
-      "defname": "BloodVial_HighBlood",
-      "price": 50
-    },
-    {
-      "abr": "bloodvial(special)",
-      "category": "Blood packs",
-      "defname": "BloodVial_Special",
-      "price": 50
-    },
-    {
-      "abr": "bloodwine(low)",
-      "category": "Blood packs",
-      "defname": "BloodWine_LowBlood",
-      "price": 100
-    },
-    {
-      "abr": "bloodwine(average)",
-      "category": "Blood packs",
-      "defname": "BloodWine_AverageBlood",
-      "price": 100
-    },
-    {
-      "abr": "bloodwine(highblood)",
-      "category": "Blood packs",
-      "defname": "BloodWine_HighBlood",
-      "price": 100
-    },
-    {
-      "abr": "bloodwine(special)",
-      "category": "Blood packs",
-      "defname": "BloodWine_Special",
-      "price": 100
-    },
-    {
-      "abr": "coffin",
-      "category": "Furniture",
-      "defname": "ROMV_SimpleCoffin",
-      "price": 143
-    },
-    {
-      "abr": "royalcoffin",
-      "category": "Furniture",
-      "defname": "ROMV_RoyalCoffin",
-      "price": 1233
-    },
-    {
-      "abr": "doubleroyalcoffin",
-      "category": "Furniture",
-      "defname": "ROMV_RoyalCoffinDouble",
-      "price": 2433
-    },
-    {
       "abr": "bonechair",
       "category": "Furniture",
       "defname": "BoneChair",
@@ -16435,7 +16183,7 @@
       "price": 383
     },
     {
-      "abr": "advancetargetinghelmet\"prophet\"",
+      "abr": "advancetargetinghelmetprophet",
       "category": "Headgear",
       "defname": "ALE_AdvHelmet",
       "price": 2500
@@ -16447,127 +16195,127 @@
       "price": 1225
     },
     {
-      "abr": "infantryarmor\"ranger\"",
+      "abr": "infantryarmorranger",
       "category": "Armor",
       "defname": "ALE_infantryarmor",
       "price": 3758
     },
     {
-      "abr": "poweredassaultarmor\"juggernaut\"",
+      "abr": "poweredassaultarmorjuggernaut",
       "category": "Armor",
       "defname": "ALE_powerarmor",
       "price": 6367
     },
     {
-      "abr": "compactknife\"sabrecat\"",
+      "abr": "compactknifesabrecat",
       "category": "Melee weapons",
       "defname": "ALE_knife",
       "price": 717
     },
     {
-      "abr": "vibroblade\"gladiator\"",
+      "abr": "vibrobladegladiator",
       "category": "Melee weapons",
       "defname": "ALE_vibro",
       "price": 2183
     },
     {
-      "abr": "decoratedvibroblade\"glory\"",
+      "abr": "decoratedvibrobladeglory",
       "category": "Melee weapons",
       "defname": "ALE_sabre",
       "price": 3767
     },
     {
-      "abr": "assaultsledge\"skullbreaker\"",
+      "abr": "assaultsledgeskullbreaker",
       "category": "Melee weapons",
       "defname": "ALE_sledge",
       "price": 4308
     },
     {
-      "abr": "gausspistol\"porcupine\"",
+      "abr": "gausspistolporcupine",
       "category": "Ranged weapons",
       "defname": "ALE_pistol",
       "price": 858
     },
     {
-      "abr": "gaussshotgun\"buffalo\"",
+      "abr": "gaussshotgunbuffalo",
       "category": "Ranged weapons",
       "defname": "ALE_shotgun",
       "price": 1083
     },
     {
-      "abr": "gausssmg\"wolverine\"",
+      "abr": "gausssmgwolverine",
       "category": "Ranged weapons",
       "defname": "ALE_SMG",
       "price": 1392
     },
     {
-      "abr": "gaussassaultrifle\"mare\"",
+      "abr": "gaussassaultriflemare",
       "category": "Ranged weapons",
       "defname": "ALE_AR",
       "price": 2508
     },
     {
-      "abr": "gausslmg\"stallion\"",
+      "abr": "gausslmgstallion",
       "category": "Ranged weapons",
       "defname": "ALE_LMG",
       "price": 3375
     },
     {
-      "abr": "gaussdmr\"pitviper\"",
+      "abr": "gaussdmrpitviper",
       "category": "Ranged weapons",
       "defname": "ALE_DMR",
       "price": 2758
     },
     {
-      "abr": "alaniangrenadelauncher\"wallbreaker\"",
+      "abr": "alaniangrenadelauncherwallbreaker",
       "category": "Ranged weapons",
       "defname": "ALE_GL",
       "price": 3183
     },
     {
-      "abr": "gausshmg\"hercules\"",
+      "abr": "gausshmghercules",
       "category": "Ranged weapons",
       "defname": "ALE_HMG",
       "price": 4992
     },
     {
-      "abr": "gaussminigun\"thunderstorm\"",
+      "abr": "gaussminigunthunderstorm",
       "category": "Ranged weapons",
       "defname": "ALE_minigun",
       "price": 6817
     },
     {
-      "abr": "quad-barrelrecoillessrifle\"cataclysm\"",
+      "abr": "quad-barrelrecoillessriflecataclysm",
       "category": "Ranged weapons",
       "defname": "ALE_RCL",
       "price": 6742
     },
     {
-      "abr": "top-attackatgm\"gungnir\"",
+      "abr": "top-attackatgmgungnir",
       "category": "Ranged weapons",
       "defname": "ALE_ATGM",
       "price": 1992
     },
     {
-      "abr": "clusterbomblauncher\"mjolnir\"",
+      "abr": "clusterbomblaunchermjolnir",
       "category": "Ranged weapons",
       "defname": "ALE_APGM",
       "price": 2075
     },
     {
-      "abr": "high-explosivegrenade\"boomrat\"",
+      "abr": "high-explosivegrenadeboomrat",
       "category": "Grenades",
       "defname": "ALE_Grenade",
       "price": 800
     },
     {
-      "abr": "gausswarbow\"artemis\"",
+      "abr": "gausswarbowartemis",
       "category": "Ranged weapons",
       "defname": "ALE_warbow",
       "price": 8217
     },
     {
-      "abr": "tacticalvisor\"gunslinger\"",
+      "abr": "tacticalvisorgunslinger",
       "category": "Headgear",
       "defname": "ALE_visor",
       "price": 867
@@ -16579,67 +16327,67 @@
       "price": 1008
     },
     {
-      "abr": "gausshandcannon\"peacemaker\"",
+      "abr": "gausshandcannonpeacemaker",
       "category": "Ranged weapons",
       "defname": "ALE_Handcannon",
       "price": 1533
     },
     {
-      "abr": "quad-barrelgaussshotgun\"streetsweeper\"",
+      "abr": "quad-barrelgaussshotgunstreetsweeper",
       "category": "Ranged weapons",
       "defname": "ALE_Quadshotgun",
       "price": 2450
     },
     {
-      "abr": "gausscompactsmg\"warmonger\"",
+      "abr": "gausscompactsmgwarmonger",
       "category": "Ranged weapons",
       "defname": "ALE_CompactSMG",
       "price": 2383
     },
     {
-      "abr": "gaussgatlingcarbine\"rainstorm\"",
+      "abr": "gaussgatlingcarbinerainstorm",
       "category": "Ranged weapons",
       "defname": "ALE_microgun",
       "price": 4400
     },
     {
-      "abr": "moltenshotgun\"firestarter\"",
+      "abr": "moltenshotgunfirestarter",
       "category": "Ranged weapons",
       "defname": "ALE_moltenshotgun",
       "price": 1900
     },
     {
-      "abr": "hyperdensespear\"waveslasher\"",
+      "abr": "hyperdensespearwaveslasher",
       "category": "Ranged weapons",
       "defname": "ALE_Spear",
       "price": 3425
     },
     {
-      "abr": "realitybender\"quantumtwister\"",
+      "abr": "realitybenderquantumtwister",
       "category": "Ranged weapons",
       "defname": "ALE_Quantum_Pistol",
       "price": 4725
     },
     {
-      "abr": "combatstimulantalpha\"trooper\"",
+      "abr": "combatstimulantalphatrooper",
       "category": "Drugs",
       "defname": "ALE_combatA",
       "price": 33
     },
     {
-      "abr": "combatstimulantbeta\"madman\"",
+      "abr": "combatstimulantbetamadman",
       "category": "Drugs",
       "defname": "ALE_combatB",
       "price": 75
     },
     {
-      "abr": "combatstimulantdelta\"berserker\"",
+      "abr": "combatstimulantdeltaberserker",
       "category": "Drugs",
       "defname": "ALE_combatD",
       "price": 125
     },
     {
-      "abr": "combatstimulantomega\"forsaken\"",
+      "abr": "combatstimulantomegaforsaken",
       "category": "Drugs",
       "defname": "ALE_combatO",
       "price": 125
@@ -17554,18 +17302,6 @@
       "abr": "aberrantmeat",
       "category": "Meat",
       "defname": "Meat_GR_AberrantFleshbeast",
-      "price": 3
-    },
-    {
-      "abr": "batmeat",
-      "category": "Meat",
-      "defname": "Meat_ROMV_BatRace",
-      "price": 3
-    },
-    {
-      "abr": "spectralbatmeat",
-      "category": "Meat",
-      "defname": "Meat_ROMV_BatSpectralRace",
       "price": 3
     },
     {
@@ -18583,33 +18319,15 @@
       "price": 1833
     },
     {
-      "abr": "psytrainer(firingfocus)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_FiringFocus",
-      "price": 1833
-    },
-    {
-      "abr": "psytrainer(powerleap)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_PowerLeap",
-      "price": 1833
-    },
-    {
       "abr": "psytrainer(adrenalinerush)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_AdrenalineRush",
       "price": 2333
     },
     {
-      "abr": "psytrainer(controlledfrenzy)",
+      "abr": "psytrainer(animalallies)",
       "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_ControlledFrenzy",
-      "price": 2833
-    },
-    {
-      "abr": "psytrainer(guidedshot)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_GuidedShot",
+      "defname": "Psytrainer_VPE_AnimalAllies",
       "price": 2833
     },
     {
@@ -18619,22 +18337,16 @@
       "price": 2833
     },
     {
-      "abr": "psytrainer(killskip)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Killskip",
-      "price": 3333
-    },
-    {
-      "abr": "psytrainer(massbeckon)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_MassBeckon",
-      "price": 3333
-    },
-    {
       "abr": "psytrainer(bramblemaze)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BrambleMaze",
       "price": 1333
+    },
+    {
+      "abr": "psytrainer(controlledfrenzy)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ControlledFrenzy",
+      "price": 2833
     },
     {
       "abr": "psytrainer(cropburst)",
@@ -18643,10 +18355,28 @@
       "price": 1833
     },
     {
-      "abr": "psytrainer(wordofanimals)",
+      "abr": "psytrainer(essencetransfer)",
       "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_WordofAnimals",
-      "price": 2333
+      "defname": "Psytrainer_VPE_EssenceTransfer",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(firingfocus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FiringFocus",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(guidedshot)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_GuidedShot",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(killskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Killskip",
+      "price": 3333
     },
     {
       "abr": "psytrainer(manhunterpulse)",
@@ -18655,21 +18385,21 @@
       "price": 2333
     },
     {
-      "abr": "psytrainer(treesprout)",
+      "abr": "psytrainer(massbeckon)",
       "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_TreeSprout",
-      "price": 2333
+      "defname": "Psytrainer_VPE_MassBeckon",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(powerleap)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PowerLeap",
+      "price": 1833
     },
     {
       "abr": "psytrainer(shieldanimals)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ShieldAnimals",
-      "price": 2833
-    },
-    {
-      "abr": "psytrainer(animalallies)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_AnimalAllies",
       "price": 2833
     },
     {
@@ -18679,17 +18409,23 @@
       "price": 2833
     },
     {
-      "abr": "psytrainer(essencetransfer)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_EssenceTransfer",
-      "price": 3333
-    },
-    {
       "abr": "psytrainer(summonpack)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SummonPack",
       "price": 3333
+    },
+    {
+      "abr": "psytrainer(treesprout)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TreeSprout",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(wordofanimals)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofAnimals",
+      "price": 2333
     }
   ],
-  "total": 3115
+  "total": 3071
 }

@@ -3523,46 +3523,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature.",
-      "stats": [
-        "Artistic meditation focus type disabled.",
-        "Natural meditation focus type allowed.",
-        "+2 plants",
-        "+20% psychic sensitivity",
-        "-5% mental break threshold",
-        "x120% neural heat recovery rate",
-        "x110% neural heat limit",
-        "x90% neural heat gain"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Artistic meditation focus type disabled.",
-          "Natural meditation focus type allowed.",
-          "+2 plants",
-          "+20% psychic sensitivity",
-          "-5% mental break threshold",
-          "x120% neural heat recovery rate",
-          "x110% neural heat limit",
-          "x90% neural heat gain"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dragonian Gene (BioTech)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DR_Attuned",
-      "name": "attuned"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
       "stats": [
