@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 800,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -273,6 +273,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -431,5 +436,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 87
 }

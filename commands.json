@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "data": {
       "isShortcut": false,
@@ -190,6 +190,24 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
+    "description": "Gives a viewer some of your coins.",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "GiftCoins"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
     "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",
@@ -322,24 +340,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "InstalledMods"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnClass"
   },
   {
     "data": {
@@ -1178,14 +1178,32 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "Unknown"
+      "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": null,
-    "usage": "!pawn",
+    "name": "Marriage",
+    "usage": "!marry",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "Pawn"
+    "defName": "Marriage"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Divorce",
+    "usage": "!divorce",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Divorce"
   },
   {
     "data": {
@@ -1204,5 +1222,23 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitRaids"
+    },
+    "description": null,
+    "name": "joinraid",
+    "usage": "!joinraid",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "JoinRaid"
   }
 ]
