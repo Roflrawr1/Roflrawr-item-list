@@ -876,12 +876,6 @@
     "version": null
   },
   {
-    "author": "Paul Freeman",
-    "name": "Free Will",
-    "steamId": "2580837227",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "alite",
     "name": "More Biotech Style Genes - All in One",
     "steamId": null,
@@ -1138,5 +1132,29 @@
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "1.0.3.2"
+  },
+  {
+    "author": "Zayl",
+    "name": "FrostyDragonRace",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Kiiro Race",
+    "steamId": "2988200143",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zayl",
+    "name": "NakinRace",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Brightsideguy",
+    "name": "Takala Race",
+    "steamId": null,
+    "version": null
   }
 ]
